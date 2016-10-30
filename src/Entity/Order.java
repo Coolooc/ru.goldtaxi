@@ -1,8 +1,5 @@
 package Entity;
 
-/**
- * Created by дима on 30.10.2016.
- */
 public class Order {
     private String startPoint;
     private String endPoint;
