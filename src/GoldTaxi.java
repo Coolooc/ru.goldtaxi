@@ -10,6 +10,5 @@ public class GoldTaxi {
             Order order = OrderReader.orderRead();
             CarSearch.searchFreeCar(CarArrayList, order);
         }
-        
     }
 }
